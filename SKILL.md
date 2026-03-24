@@ -1,5 +1,5 @@
 ---
-name: comfyui-api
+name: comfyui-api-skill
 description: 通过 HTTP API 与 ComfyUI 服务交互，支持工作流提交与执行、队列管理、文件上传和能力探测；自动检测视频工作流并使用合适超时；简洁输出执行结果；当用户需要使用 ComfyUI 生成图像、视频、音频或管理服务时使用
 dependency:
   python:
